@@ -4,7 +4,7 @@ Login Page With Phone authentication
 Phone Authentication is one of the most common methods for login in most Apps and websites. In this blog, I am going to show you how to add Phone Authentication using Firebase in Android Studio. 
 
 We will build two activities MainActivity.class and HomeActivity.class. But first, we need to set some of the dependencies to fetch the required services and authentication libraries.
-https://github.com/ganeshdabbeta/Grynow_project/blob/main/grynow_project/MainActivity.java
+https://github.com/abhilashreddynalla/GryNow_project/blob/main/Grynow_project-main/grynow_project/MainActivity.java
 
 
 https://firebase.google.com/docs/auth/android/phone-auth
@@ -12,10 +12,11 @@ https://firebase.google.com/docs/auth/android/phone-auth
 https://firebase.google.com/docs/auth/android/phone-auth
 ![529f55_434630309fb14990be2fd3bf17e29042_mv2](https://user-images.githubusercontent.com/88226828/187062126-d3672146-9462-4064-b036-cb7a3943bda5.png)
 Now come back to Android Studio and white the code for MainActivity. The code snippet for MainActivity.class is in main folder.
-https://github.com/ganeshdabbeta/Grynow_project/blob/main/grynow_project/MainActivity.java
+https://github.com/abhilashreddynalla/GryNow_project/blob/main/Grynow_project-main/grynow_project/MainActivity.java
 
 Also, the code snippet for HomeActivity.class is given below, which is our landing page when the authentication is successful. 
-https://github.com/ganeshdabbeta/Grynow_project/blob/main/grynow_project/HomeActivity.java
+https://github.com/abhilashreddynalla/GryNow_project/blob/main/Grynow_project-main/grynow_project/HomeActivity.java
+
 
 The Login UI looks like ..
 
@@ -25,7 +26,7 @@ The Login UI looks like ..
 
 
 The code snippet for activity_home.xml is main folder.
-https://github.com/ganeshdabbeta/Grynow_project/blob/main/layout/activity_home.xml
+https://github.com/abhilashreddynalla/GryNow_project/blob/main/Grynow_project-main/layout/activity_home.xml
 
 
 ![Screenshot (120)](https://user-images.githubusercontent.com/88226828/187062699-637ae8ff-41f2-45ff-bfa2-f5519d2a36e9.png)
