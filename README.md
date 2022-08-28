@@ -1,1 +1,0 @@
-# GryNow_project
